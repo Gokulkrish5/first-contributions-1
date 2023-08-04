@@ -1,9 +1,10 @@
 # Contributors
 
 !-- prettier-ignore-start -->
-
+- [Abdul Lathif Shaik](https://github.com/lathifshaik)
 - [Walter Goad](https://github.com/Goadlife1)
 - [David Alexander](https://github.com/ogiorgil)
+- [Jigyasa Singhal](https://github.com/jigyasaSinghal)
 - [Sanket Jaipuriar](https://github.com/RubyShanks)
 - [HacFlix](https://github.com/HacFlix)
 - [Zaid Ismail Asvat Alias Vader](https://github.com/Vader980)
@@ -87,6 +88,7 @@
 - [ryantra] (https://github.com/ryantra)
 - [shinobi3142](https://github.com/darkGhost3142)
 - [iamroshankr](https://github.com/iamroshankr)
+- [KumBrian](https://github.com/KumBrian)
 - [Aaryaveer Rajput](https://github.com/AKR-2803)
 - [Raphael Monte](https://github.com/rmonte)
 - [SpongeJohnSquareLennon](https://github.com/SpongeJohnSquareLennon)
@@ -6735,6 +6737,7 @@ Aadi Deshmukh
 - [Md. Faridul Hassan](https://github.com/faridulhassan)
 - [MrDiamond007](https://github.com/MrDiamond007)
 - [Dan Calabia](https://github.com/DandarandanEC)
+- [Siddharth](https://github.com/Siddhart899)
 - [Carlos Grajeda](https://github.com/grajedacarlos)
 - [Rabab Shayra](https://github.com/Rababdhruba1996)
 - [Gabriel Mackenzie](https://github.com/Kenn-243)
@@ -6747,6 +6750,7 @@ Aadi Deshmukh
 - [Rishabh Sarang](https://github.com/Rishabh-Sarang)
 - [Robbyn Tongue](https://github.com/RTongue)
 - [Enrica Melissa Panjaitan](https://github.com/marinebubble)
+- [Xander Vaes](https://github.com/XanderV-2158642)
 - [Nachiketh s H](https://github.com/nachiketh25)
 - [Paras Aggarwal](https://github.com/Paraass)
 - [sk](https://github.com/kolachinas)
@@ -6822,3 +6826,5 @@ Aadi Deshmukh
 - [Gardner](https://github.com/gardnerdev)
 - [Tamajit Das](https://github.com/devdas98)
 - [VitaminZ0](https://github.com/VitaminZ0)
+- [Peanut086](https://github.com/Peanut086)
+- [GargiMittal](https://github.com/GargiMittal)
